@@ -4,10 +4,16 @@ Welcome to the CODSOFT internship repository. Here, you'll find a collection of 
 
 ## Tasks
 
-### 1. TO-DO LIST
+### 1. CONTACT BOOK
 *Features:*
-- *A To-Do List application is a useful project that helps users manage and organize their tasks efficiently.*
-- *This project aims to create a command-line or GUI-based application using Python, allowing users to create, update, and track their to-do lists.*
+- *A contact book is a tool for saving a contact’s details, such as name, address, phone number, and email address.*
+
+*In this project, you will build a Contact Book application that allows users to:*
+1. *Add new contact records.*
+2. *Search for contacts by name.*
+3. *Display all contact records.*
+4. *Delete contact records.*
+5. *Modify contact records.*
 
 
 ### 2. CALCULATOR
